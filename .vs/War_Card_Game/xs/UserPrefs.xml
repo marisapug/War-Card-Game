@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{165040F4-38DA-4DB4-B024-CF8EC2CE0BC4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="War_Card_Game/Program.cs">
+    <Files>
+      <File FileName="War_Card_Game/Program.cs" Line="27" Column="7" />
+      <File FileName="War_Card_Game/Properties/Player.cs" Line="1" Column="1" />
+      <File FileName="War_Card_Game/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="War_Card_Game/Player.cs" Line="64" Column="61" />
+      <File FileName="War_Card_Game/Card.cs" Line="18" Column="10" />
+      <File FileName="War_Card_Game/Decker.cs" Line="1" Column="1" />
+      <File FileName="War_Card_Game/Deck.cs" Line="54" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="War_Card_Game" expanded="True">
+            <Node name="War_Card_Game" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.War__Card__Game PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

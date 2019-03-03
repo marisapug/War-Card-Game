@@ -1,0 +1,6 @@
+/Users/Marisa/Desktop/War_Card_Game/War_Card_Game/obj/x86/Debug/War_Card_Game.csprojAssemblyReference.cache
+/Users/Marisa/Desktop/War_Card_Game/War_Card_Game/obj/x86/Debug/War_Card_Game.csproj.CoreCompileInputs.cache
+/Users/Marisa/Desktop/War_Card_Game/War_Card_Game/bin/Debug/War_Card_Game.exe
+/Users/Marisa/Desktop/War_Card_Game/War_Card_Game/bin/Debug/War_Card_Game.pdb
+/Users/Marisa/Desktop/War_Card_Game/War_Card_Game/obj/x86/Debug/War_Card_Game.exe
+/Users/Marisa/Desktop/War_Card_Game/War_Card_Game/obj/x86/Debug/War_Card_Game.pdb
