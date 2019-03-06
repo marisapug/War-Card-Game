@@ -138,7 +138,7 @@ namespace War_Card_Game
             if (winner == current_draws[1])
             {
                 Console.WriteLine(this.players[1].GetPlayerName() + " wins this round!");
-                this.players[0].GiveJackpot(my_jack);
+                this.players[1].GiveJackpot(my_jack);
             }
             else if (winner == current_draws[0])
             {
